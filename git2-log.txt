@@ -1,0 +1,38 @@
+    1  cd mygit/
+    2  git remote
+    3  git remot -v
+    4  git remote -v
+    5  git push origin master 
+    6  nano my.txt 
+    7  git add my.txt 
+    8  git commit -m "my second commit"
+    9  git push origin master
+   10  git push origin my.txt
+   11  git status
+   12  git status my.txt 
+   13  nano my.txt 
+   14  git status
+   15  git add my.txt 
+   16  git status
+   17  git commit -m "my second"
+   18  git status
+   19  nano tst
+   20  ls
+   21  git status
+   22  git status -s
+   23  rm tst 
+   24  git status -s
+   25  git status
+   26  nano tst
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m "my third"
+   31  git status
+   32  nano tst 
+   33  git status -s
+   34  git add .
+   35  git status -s
+   36  git commit -m "myfouthr"
+   37  git status -s
+   38  history > git2-log.txt

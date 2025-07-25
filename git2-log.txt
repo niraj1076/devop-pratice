@@ -36,3 +36,58 @@
    36  git commit -m "myfouthr"
    37  git status -s
    38  history > git2-log.txt
+   39  git dif
+   40  git diff
+   41  nano tst 
+   42  git diff
+   43  nano tst 
+   44  git add .
+   45  git diff
+   46  nano tst 
+   47  git diff
+   48  git difftool
+   49  git diff --stage
+   50  git diff --staged
+   51  git difftool --staged
+   52  git diff HEAD
+   53  git difftool HEAD
+   54  exit
+   55  cd mygit/
+   56  ls
+   57  git status
+   58  git commit -m 'my 5 commit'
+   59  git status
+   60  git diff 
+   61  git add .
+   62  git status
+   63  git diff --staged
+   64  git commit -m 'mu 6 commit'
+   65  git diff --staged
+   66  git diff HEAD
+   67  git status
+   68  LS
+   69  ls
+   70  nano tst 
+   71  git status
+   72  git diff --staged
+   73  git diff
+   74  git diff HEAD
+   75  git status
+   76  git all tst
+   77  git add tst
+   78  nano tst 
+   79  git difftool 
+   80  git add .
+   81  nano tst 
+   82  git difftool 
+   83  git difftool --staged
+   84  git difftool HEAD
+   85  nano tst 
+   86  git difftool 
+   87  git difftool --staged
+   88  git add tst 
+   89  git difftool --staged
+   90  git commit -m 'mu 7 commit'
+   91  git difftool HEAD
+   92  history git2-log.txt 
+   93  history > git2-log.txt 

@@ -1,1 +1,2 @@
-mytocken.txt
+*.txt
+!c.txt
